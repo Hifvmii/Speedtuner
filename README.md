@@ -16,8 +16,5 @@ Proyek ini merupakan tugas dari mata kuliah **Pemrograman Web Lanjut**. Website 
 - **CSS3**: Untuk styling dan desain responsif.
 - **JavaScript**: Untuk menambahkan interaktivitas dan manipulasi elemen DOM.
 
-## Lisensi
-Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
-
 ## Pembuat
 - [Bagus Ade Saputra](https://github.com/lazyyworks)
