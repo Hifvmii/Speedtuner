@@ -16,23 +16,6 @@ Proyek ini merupakan tugas dari mata kuliah **Pemrograman Web Lanjut**. Website 
 - **CSS3**: Untuk styling dan desain responsif.
 - **JavaScript**: Untuk menambahkan interaktivitas dan manipulasi elemen DOM.
 
-## Struktur Direktori
-```
-/repository-name
-│
-├── /assets        # Folder untuk gambar, font, dan file media lainnya
-├── /css           # Folder untuk file CSS
-│   └── styles.css
-├── /js            # Folder untuk file JavaScript
-│   └── script.js
-├── /images        # Folder untuk gambar-gambar website
-├── /pages         # Folder untuk halaman-halaman HTML
-│   └── index.html
-│   └── contact.html
-│   └── gallery.html
-└── README.md      # File ini
-```
-
 ## Lisensi
 Proyek ini dilisensikan di bawah lisensi MIT - lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
 
